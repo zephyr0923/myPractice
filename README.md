@@ -5,7 +5,7 @@
 ## 项目结构
 ```
 
-. ├─ list/                # 线性表：顺序表 + 单向链表 │  ├─ LinkedList.h │  ├─ LinkedList.cpp │  ├─ SeqList.h │  ├─ SeqList.cpp │  └─ Test.cpp ├─ 2048/ │  └─ 2048.cpp └─ README.md
+. ├─ list/                # 线性表：顺序表 + 单向链表 │  ├─ LinkedList.h │  ├─ LinkedList.cpp │  ├─ SeqList.h │  ├─ SeqList.cpp │  └─ Test.cpp ├─ mine2048/ │  └─ 2048.cpp └─ README.md
 
 ```
 ## 一、线性表 list（顺序表 + 单链表）
